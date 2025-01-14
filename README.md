@@ -13,9 +13,9 @@ With 4+ years of experience building dynamic, user-friendly web applications, I 
 ---
 
 ## 🛠️ Technologies & Tools  
-- **Frontend**: React.js, JavaScript (ES6+), TypeScript, HTML5, CSS3  
-- **State Management**: Redux, Context API, Zustand  
-- **Libraries & Tools**: D3.js, Axios, Tailwind CSS, Bootstrap  
+- **Frontend**: React.js, JavaScript (ES6+),Nextjs, TypeScript, HTML5, CSS3  
+- **State Management**: Redux, Context API  
+- **Libraries & Tools**: Axios, Tailwind CSS, Bootstrap ,Scss ,Style components 
 - **Version Control**: Git & GitHub  
 
 ---
