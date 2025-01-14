@@ -13,10 +13,15 @@ With 4+ years of experience building dynamic, user-friendly web applications, I 
 ---
 
 ## 🛠️ Technologies & Tools  
-- **Frontend**: React.js, JavaScript (ES6+),Nextjs, TypeScript, HTML5, CSS3  
+- **Frontend**: React.js, JavaScript (ES6+), Next.js, TypeScript, HTML5, CSS3  
 - **State Management**: Redux, Context API  
-- **Libraries & Tools**: Axios, Tailwind CSS, Bootstrap ,Scss ,Style components 
+- **Libraries & Tools**: Axios, Tailwind CSS, Bootstrap, SCSS, Styled-components  
 - **Version Control**: Git & GitHub  
+
+---
+
+## 👀 Visitors Count  
+![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/rohitsinghnegi099&title=Profile%20Views)  
 
 ---
 
@@ -29,7 +34,3 @@ With 4+ years of experience building dynamic, user-friendly web applications, I 
 
 ### ⭐ Fun Fact  
 _"The best code is no code at all."_ ✨  
-
----
-
-Feel free to customize this further with your projects, achievements, and links to make it uniquely yours!
